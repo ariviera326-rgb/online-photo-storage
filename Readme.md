@@ -1,0 +1,1 @@
+This is a webpage where you can upload photos by loging in into user's github account and tina-cms account
